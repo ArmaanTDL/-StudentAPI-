@@ -62,6 +62,16 @@ The project includes a **Dockerfile** for easy deployment.
 
 ---
 
+## LOCAL DEPOLY ON RENDER
+https://studentapi-95pa.onrender.com/
+
+<img width="1512" height="821" alt="Screenshot 2026-03-13 at 10 56 50 PM" src="https://github.com/user-attachments/assets/d8e22b82-8ada-42fd-8007-8093a3ded379" />
+
+
+
+<img width="1512" height="821" alt="Screenshot 2026-03-13 at 10 56 29 PM" src="https://github.com/user-attachments/assets/5b21d700-d2b6-4f8c-8ea3-46980d80070d" />
+<img width="1512" height="821" alt="Screenshot 2026-03-13 at 10 56 41 PM" src="https://github.com/user-attachments/assets/f923f410-01b3-4d1b-abb9-53b340d73bcd" />
+
 ## 📡 API Endpoints Summary
 
 | Method | Endpoint | Description |
@@ -71,3 +81,6 @@ The project includes a **Dockerfile** for easy deployment.
 | `GET` | `/api/students/{id}` | Get student by ID |
 | `PUT` | `/api/students/{id}` | Update student data |
 | `DELETE` | `/api/students/{id}` | Remove a student |
+
+
+
